@@ -14,7 +14,7 @@ Examples:
 >>> what_is_this(True)
 "This is a Boolean."
 >>> what_is_this(2.8)
-"This is an Float."
+"This is a Float."
 >>> what_is_this(object())
 "I have no idea what this is"
 ```
